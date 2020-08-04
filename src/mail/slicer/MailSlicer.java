@@ -9,15 +9,10 @@ import java.util.Scanner;
 import java.io.*;
 import java.util.*;
 
-/**
- *
- * @author Keerthana
- */
+
 public class MailSlicer {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
        String s=sc.next();
